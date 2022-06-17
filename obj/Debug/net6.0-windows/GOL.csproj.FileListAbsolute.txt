@@ -1,0 +1,17 @@
+C:\Users\Othma\source\repos\GOL\bin\Debug\net6.0-windows\GOL.exe
+C:\Users\Othma\source\repos\GOL\bin\Debug\net6.0-windows\GOL.deps.json
+C:\Users\Othma\source\repos\GOL\bin\Debug\net6.0-windows\GOL.runtimeconfig.json
+C:\Users\Othma\source\repos\GOL\bin\Debug\net6.0-windows\GOL.dll
+C:\Users\Othma\source\repos\GOL\bin\Debug\net6.0-windows\GOL.pdb
+C:\Users\Othma\source\repos\GOL\obj\Debug\net6.0-windows\GOL.csproj.AssemblyReference.cache
+C:\Users\Othma\source\repos\GOL\obj\Debug\net6.0-windows\GOL.Form1.resources
+C:\Users\Othma\source\repos\GOL\obj\Debug\net6.0-windows\GOL.csproj.GenerateResource.cache
+C:\Users\Othma\source\repos\GOL\obj\Debug\net6.0-windows\GOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Othma\source\repos\GOL\obj\Debug\net6.0-windows\GOL.AssemblyInfoInputs.cache
+C:\Users\Othma\source\repos\GOL\obj\Debug\net6.0-windows\GOL.AssemblyInfo.cs
+C:\Users\Othma\source\repos\GOL\obj\Debug\net6.0-windows\GOL.csproj.CoreCompileInputs.cache
+C:\Users\Othma\source\repos\GOL\obj\Debug\net6.0-windows\GOL.dll
+C:\Users\Othma\source\repos\GOL\obj\Debug\net6.0-windows\refint\GOL.dll
+C:\Users\Othma\source\repos\GOL\obj\Debug\net6.0-windows\GOL.pdb
+C:\Users\Othma\source\repos\GOL\obj\Debug\net6.0-windows\GOL.genruntimeconfig.cache
+C:\Users\Othma\source\repos\GOL\obj\Debug\net6.0-windows\ref\GOL.dll
